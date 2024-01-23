@@ -1,6 +1,3 @@
-# $$\textcolor{red}{\text{UNDER CONSTRUCTION}}$$
-
-
 # Project Title:
 
 An Implementation of Data Structures And Algorithms In Java
@@ -39,36 +36,33 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 5. Outline:
 
-1. Arrays
-2. ArrayList
-3. LinkedList
-4. Circular Singly Linked List
-5. Doubly Linked List
-6. Circular Doubly Linked List
-7. Stack
-8. Queue
-9. Recursion
-10. Tree / Binary Tree
-11. Binary Search Tree
-12. AVL Tree
-13. Binary Heap
-14. Trie
-15. Hashing
-16. Sorting Algorithms
-17. Searching Algorithms
-18. Graph Traversal
-19. Topological Sort
-20. Single Source Shortest Path Problem (SSSPP)
-21. Dijkstra Algorithm
-22. Bellman Ford Algorithm
-23. All Pairs Shortest Path Problem
-24. Floyd Warshall Algorithm
-25. Minimum Spanning Tree (Disjoint Set)
-26. Kruskal and Prim's Algorithm
-27. Greedy Algorithms
-28. Divide and Conquer Algorithms
-30. Dynamic Programming
-31. Backtracking
+[1: Big O Questions](BigOQuestions)
+
+[2: Arrays](Arrays)
+
+[3: ArrayList](ArrayList)
+
+[4: LinkedList](LinkedList)
+
+[5: Stack](Stack)
+
+[6: Queue](Queue)
+
+[7: Recursion](Recursion)
+
+[8: Tree ](Tree)
+
+[9: Hashing](Hashing)
+
+[10: Sorting Algorithms](Sorting)
+
+[11: Searching Algorithms](Searching)
+
+[12: Graph Traversal](Graphs)
+
+[13: Greedy Algorithms](GreedyAlgorithms)
+
+[14: Divide and Conquer Algorithms](DivideAndConquerAlgorithms)
 
 
 ## 6. Adapted from: 
