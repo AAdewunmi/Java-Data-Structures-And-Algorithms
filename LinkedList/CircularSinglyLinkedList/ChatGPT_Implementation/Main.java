@@ -1,4 +1,4 @@
-package LinkedList.CircularSinglyLinkedList.ChatGPT;
+package LinkedList.CircularSinglyLinkedList.ChatGPT_Implementation;
 
 class Node {
     int data;
